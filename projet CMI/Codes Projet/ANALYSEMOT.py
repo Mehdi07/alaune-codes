@@ -45,5 +45,5 @@ def fonction(mot1,mot2,mot3,mot4,mot5):
 
 
 if __name__ == '__main__':
-	print fonction('Macron','fillon','le pen','hamon','victoire')
+	print fonction('','','','','')
 
